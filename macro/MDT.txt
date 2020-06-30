@@ -1,0 +1,5 @@
+**	STA	&A1
+**	IF	(&A1EQ5)
+**	ADD	&A2
+**	ENDIF	**
+**	STA	GAMMA
